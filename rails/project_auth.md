@@ -13,8 +13,8 @@ You'll implement signin and signout functionality for the user, which opens the 
 
 ### Your Task
 
-1. Do the [Ruby on Rails Tutorial Chapter 8](https://www.railstutorial.org/book/log_in_log_out), "Log in, log out"
-2. Do the [Ruby on Rails Tutorial Chapter 9](http://www.railstutorial.org/book/updating_and_deleting_users), "Updating, showing and deleting users"
+1. Do the [Ruby on Rails Tutorial Chapter 8](https://3rd-edition.railstutorial.org/book/log_in_log_out), "Log in, log out"
+2. Do the [Ruby on Rails Tutorial Chapter 9](http://3rd-edition.railstutorial.org/book/updating_and_deleting_users), "Updating, showing and deleting users"
 
 
 ## Project 2: Members Only!
@@ -48,7 +48,7 @@ If you'd like to challenge yourself, don't even follow the steps below, just go 
         > user.authenticate("somethingelse")
         => false
         > user.authenticate("foobar")
-        => true
+        => #<User id: 1, name: "foobar", email: "foo@bar.com", password_digest: "$2a$10$9Lx...", created_at: "2016...", updated_at: "2016...">
     ```
 
 #### Sessions and Sign In
@@ -119,6 +119,22 @@ This is obviously a somewhat incomplete solution... We currently need to create 
 * [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/tree/master/rails/members-only)
 * [Aviv Levinsky's solution](https://github.com/pugsiman/members-only) | [View in browser](https://guarded-brook-9440.herokuapp.com/)
 * [Hassan Mahmoud's solution](https://github.com/HassanTC/members-only) | [View in browser](https://sleepy-citadel-6281.herokuapp.com/)
+* [Radi Totev's solution](https://github.com/raditotev/members-only)
+* [cdouglass's solution](https://github.com/cdouglass/odin-project-exercises/tree/master/rails/members-only)
+* [srashidi's solution](https://github.com/srashidi/Authentication/tree/master/members-only)
+* [Luke Walker's solution](https://github.com/ubershibs/rails_course/tree/master/members-only)
+* [Scott Bobbitt's solution](https://github.com/sco-bo/members_only)
+* [Max Gallant's solution](https://github.com/mcgalcode/members-only) | [View in browser](https://grapefruitonly.herokuapp.com/)
+* [Miguel Herrera's solution](https://github.com/migueloherrera/members-only)
+* [James Brooks's solution](https://github.com/jhbrooks/members-only) | [View in browser](https://powerful-bastion-24693.herokuapp.com/)
+* [Matt Velez's solution](https://github.com/Timecrash/rails-projects/tree/master/members-only)
+* [Sander Schepens's solution](https://github.com/schepens83/theodinproject.com/tree/master/rails/project8--members-only!/members-only)
+* [Akshay Bharwani's solution](https://github.com/akshaybharwani/members-only)
+* [Mateo Mejia's solution](https://github.com/mateomgj/rails_authentication_project) | [View in browser](https://enigmatic-reef-29029.herokuapp.com/)
+* [Fabricio Carrara's solution](https://github.com/fcarrara/members-only) | [View in browser](https://members-only-rails.herokuapp.com)
+* [Stefan (Cyprium)'s solution](https://github.com/dev-cyprium/members-only) | [View in browser](https://members-only-dest.herokuapp.com/)
+* [Deepak's solution](https://github.com/Deepak5050/members-only.git) | [View in browser](https://dpoo-members-only.herokuapp.com/)
+* [Earth35's solution](https://github.com/Earth35/members_only) | [View in browser](https://limitless-waters-94136.herokuapp.com/)
 * Add your solution above this line!
 
 

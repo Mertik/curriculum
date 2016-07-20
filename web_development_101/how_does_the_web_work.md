@@ -1,5 +1,7 @@
 # How Does the Web Work?
 <!-- *Estimated Time: 1-2 hrs* -->
+<!-- purpose of lesson: to give the student a high level overview of the way the internet works
+     Developer tools should not be in here, in fact a developer tools lesson is probably needed. -->
 
 Before you can understand how to *program* the web, you need to understand the web itself on a more granular level than you probably do now.  Some of this stuff is necessary just to have a more wholistic understanding of the ecosystem in which you will be working (and to not sound like a total newbie when talking to other developers about it), but other aspects (like HTTP) will come up again and again when you start programming.  
 
@@ -29,7 +31,7 @@ We'll also cover a few tips and tools that will be useful to you again and again
 4. He dives further into HTTP in a [short 3-minute video (video)](http://cs50.tv/2012/fall/shorts/http/http-720p.mp4).
 5. Check out [a bit more on developer tools](http://www.dontfeartheinternet.com/03-the-browser/) (*Note: Sorry if it is redirecting to spammy sites, they have been hacked before*) from Don't Fear the Internet, since getting familiar with your browser's tools will help you out quite a bit as you start poking around the web pages you or others have made.
 6. Why are we spending so much time looking at developer tools for the browser?  Because they are your gateway to seeing the inner workings of websites and will help you figure out what's wrong with your own.  You can also use them to scrape data from other people's websites, which you will learn about by reading Dan Nguyen's [Intro to Web Scraping](http://ruby.bastardsbook.com/chapters/web-scraping/) and then the following chapter on [Meeting your Web Inspector](http://ruby.bastardsbook.com/chapters/web-inspecting-html/).  Take a few minutes to go mucking around on your favorite websites and seeing how they're organized.
-6. (Optional) If you want to learn a bit more about the amazingly useful developer tools for your browser, check out [this 10-minute video](http://www.youtube.com/watch?v=z1TkfcC53G0) that goes over them in some detail.  A bit of knowledge here can save you a lot of time debugging later!
+6. (Optional) If you want to learn a bit more about the amazingly useful developer tools for your browser, check out [this 10-minute video](https://www.youtube.com/watch?v=wcFnnxfA70g) that goes over them in some detail.  A bit of knowledge here can save you a lot of time debugging later!
 
 
 ## Additional Resources

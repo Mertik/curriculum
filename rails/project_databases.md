@@ -24,6 +24,14 @@ SQL Zoo is one of the few resources online that actually lets you build and run 
 * [dchen71's solution](https://github.com/dchen71/the_odin_project/tree/master/Rails/SQLZOO)
 * [Alex Chen's solution](https://github.com/Chenzilla/SQL_Zoo)
 * [Dan Hoying's solution](https://github.com/danhoying/sql_and_databases)
+* [Radi Totev's solution](https://github.com/raditotev/sqlzoo-solutions)
+* [Scott Bobbitt's solution](https://github.com/sco-bo/sql_zoo)
+* [Max Gallant's solution](https://github.com/mcgalcode/SQLZoo)
+* [James Brooks's solution](https://github.com/jhbrooks/sql-zoo)
+* [Sander Schepens's solution](https://github.com/schepens83/theodinproject.com/tree/master/rails/project5--sqlzoo.net)
+* [Arthur Vieira's solution](https://github.com/arthur-vieira/sqlzoo)
+* [Fabricio Carrara's solution](https://github.com/fcarrara/sql_zoo)
+* [codyloyd's solution](https://github.com/codyloyd/sqlzoo-solutions/blob/master/SQLZOO_solutions.md)
 * Add your solution above this line!
 
 

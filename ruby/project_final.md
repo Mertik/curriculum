@@ -43,6 +43,16 @@ This is a great project to have as a part of your portfolio going forward becaus
 * [Florian Mainguy's solution](https://github.com/florianmainguy/theodinproject/tree/master/ruby/chess)
 * [srashidi's solution](https://github.com/srashidi/Ruby_Final_Project/tree/master/chess)
 * [bskillings's solution](https://github.com/bskillings/Odin-Ruby-Final-Chess)
+* [Luke Walker's solution](https://github.com/ubershibs/ruby-programming/tree/master/chess)
+* [Tomasz Kula's solution](https://github.com/zetsnotdead/chess_ruby)
+* [Scott Bobbitt's solution](https://github.com/sco-bo/chess)
+* [Miguel Herrera's solution](https://github.com/migueloherrera/chess)
+* [Max Gallant's solution](https://github.com/mcgalcode/Ruby/tree/master/Chess)
+* [noobling's solution] (https://github.com/TopOneOfTopOne/CLI_chess)
+* [Sahil Agarwal's solution] (https://github.com/sahilda/the_odin_project/tree/master/rubyChess)
+* [James Brooks's solution](https://github.com/jhbrooks/chess)
+* [Cyprium (Stefan)'s solution](https://github.com/dev-cyprium/chess)
+* [Earth35's solution](https://github.com/Earth35/chess)
 * Add your solution above this line!
 
 
